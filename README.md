@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-![Gameplay Screenshot _1](Screenshot/Screenshot.png)
+![Gameplay Screenshot](Screenshot/Screenshot.png)
 ![Gameplay Screenshot _2](Screenshot/Screenshot2.png)
 
 Feel free to add additional sections or details based on your preferences or any specific information related to your implementation of the Snake Game.
